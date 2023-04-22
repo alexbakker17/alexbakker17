@@ -2,6 +2,7 @@
 - 👋 Hi, I’m Alex Bakker-Noguer
 - 👀 I’m interested in data and sport
 - 🌱 I’m currently studying a Data Science Masters at Loughborough University
+- 🌱 I have a 1st Class Bachelors Degree in Sport and Exercise Science from Loughborough University
 - 📫 How to reach me: alexbakker17@gmail.com
 
 <!---
