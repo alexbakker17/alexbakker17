@@ -1,7 +1,7 @@
 
-- 👋 Hi, I’m Alex Bakker-Noguer
+- 👋 Hi, I’m Alex
 - 👀 I’m interested in data and sport
-- 🌱 I’m currently employed as a Data Analyst at Portas Consulting in London
+- 🌱 I’m currently employed as a Data Analyst at CAA Portas in London
 - 🌱 I have a Data Science Master's with distinction from Loughborough University
 - 🌱 I have a 1st Class Bachelors Degree in Sport and Exercise Science from Loughborough University
 - 📫 How to reach me: alexbakker17@gmail.com
